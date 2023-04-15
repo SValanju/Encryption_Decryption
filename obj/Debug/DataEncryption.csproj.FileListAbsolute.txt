@@ -1,0 +1,14 @@
+D:\Projects\.Net Projects\DataEncryption\bin\Debug\DataEncryption.exe.config
+D:\Projects\.Net Projects\DataEncryption\bin\Debug\DataEncryption.exe
+D:\Projects\.Net Projects\DataEncryption\bin\Debug\DataEncryption.pdb
+D:\Projects\.Net Projects\DataEncryption\bin\Debug\SecureStore.dll
+D:\Projects\.Net Projects\DataEncryption\obj\Debug\DataEncryption.dataEncrypt.resources
+D:\Projects\.Net Projects\DataEncryption\obj\Debug\DataEncryption.winDataEncryption.resources
+D:\Projects\.Net Projects\DataEncryption\obj\Debug\DataEncryption.Properties.Resources.resources
+D:\Projects\.Net Projects\DataEncryption\obj\Debug\DataEncryption.csproj.GenerateResource.cache
+D:\Projects\.Net Projects\DataEncryption\obj\Debug\DataEncryption.csproj.CoreCompileInputs.cache
+D:\Projects\.Net Projects\DataEncryption\obj\Debug\DataEncryption.csproj.CopyComplete
+D:\Projects\.Net Projects\DataEncryption\obj\Debug\DataEncryption.exe
+D:\Projects\.Net Projects\DataEncryption\obj\Debug\DataEncryption.pdb
+D:\Projects\.Net Projects\DataEncryption\obj\Debug\DataEncryption.csproj.AssemblyReference.cache
+D:\Projects\.Net Projects\DataEncryption\obj\Debug\DataEncryption.dataDecrypt.resources
